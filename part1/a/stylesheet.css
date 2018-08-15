@@ -1,0 +1,22 @@
+/*
+See index.html for instructions. 
+*/
+
+
+.left {
+  border: 3px solid rgb(0, 0, 255);
+  float: left;
+}
+
+.middle{
+  border: 3px solid rgb(255, 166, 0);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.right {
+  border: 3px solid rgb(128, 128, 128);
+  float: right;
+}

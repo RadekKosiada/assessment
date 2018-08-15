@@ -1,0 +1,55 @@
+/*
+See index.html for instructions.
+*/
+
+div {
+  display: inline-block;
+}
+
+.big {
+  width: 200px;
+  height: 200px;
+}
+
+.small {
+  width: 100px;
+  height: 100px;
+}
+
+#grey {
+  background-color: rgb(128, 128, 128);
+}
+
+#orange {
+ background-color: rgb(255, 166, 0);
+ position: relative;
+ top: 0;
+ left: 50%;
+}
+
+#black {
+  background-color: rgb(0, 0, 0);
+}
+
+#yellow {
+  background-color: rgb(255, 255, 0);
+  position: relative;
+  top: 50%;
+  left: 50%;
+}
+
+#blue {
+  background-color: rgb(0, 0, 255);
+}
+#green{
+  background-color: rgb(0, 129, 0);
+  position: relative; 
+  top: 50%;
+}
+
+#purple {
+  background-color: rgb(129, 0, 130);
+}
+#pink {
+  background-color:  rgb(255, 191, 203);
+}
